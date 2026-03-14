@@ -137,7 +137,7 @@ O programa deve encerrar quando for digitado um valor **fora desse intervalo**.
 Exemplo:
 
 $$
-66:\; 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78
+66:\ 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78
 $$
 
 **25 .** Some todos os números naturais **menores que 1000** que são **múltiplos de 3 ou 5**.
