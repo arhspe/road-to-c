@@ -15,7 +15,6 @@ O objetivo é praticar conceitos fundamentais de **lógica de programação, org
 ```
 
 * **EmAula** contém os conteúdos, exemplos e códigos demonstrados em aula.
->>>>>>> 0e40a1b (Folder restructuring and addition of new exercises)
 * As pastas **E** contém listas de exercícios propostas como atividades ou tarefas para casa.
 
 Cada pasta de exercícios contém:
