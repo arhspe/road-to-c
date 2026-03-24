@@ -1,27 +1,38 @@
 # Exercícios em C
 
-Este repositório reúne exercícios e implementações desenvolvidos em **C** durante meus estudos de **Estruturas de Dados** na faculdade.
+Este repositório reúne exercícios e implementações desenvolvidos em C, com foco no estudo de Estruturas de Dados e Lógica de Programação.
 
-O objetivo é praticar conceitos fundamentais de **lógica de programação, organização de dados e manipulação de memória**, além de registrar minha evolução na linguagem.
+O objetivo é consolidar conceitos fundamentais como **manipulação de memória**, **organização de dados** e **resolução de problemas algorítmicos**, além de registrar minha evolução prática na linguagem.
 
 ### 📁 Estrutura do repositório
 
 ```text
-.
-├── E1
-├── E2
-├── En   #n representando a numeração da lista
-└── EmAula
+road-to-c/
+│
+├── EmAula/
+│   ├── RevisaoArrays/ 
+|   ├── RevisaoComandosRepeticao/
+│   └── .../ 
+│
+├── EmCasa/
+│   ├── E1/
+|   ├── E2/
+│   └── .../
+│
+├── .gitignore
+└── README.md
 ```
 
-* **EmAula** contém os conteúdos, exemplos e códigos demonstrados em aula.
-* As pastas **E** contém listas de exercícios propostas como atividades ou tarefas para casa.
+* 🎒 **EmAula** contém os conteúdos, exemplos e códigos demonstrados em aula.
+* 🏠 **EmCasa** contém listas de exercícios propostas (atividades e tarefas), organizadas por número
 
 Cada pasta de exercícios contém:
 
 * os arquivos `.c` com as soluções
-* os executáveis gerados após a compilação com `gcc`
 * um arquivo `.md` com os enunciados da lista
+
+> [!WARNING]
+> Arquivos executáveis `(.exe)` não são versionados, pois são gerados automaticamente durante a compilação e podem variar conforme o ambiente.
 
 ### ⚙️ Compilação
 
