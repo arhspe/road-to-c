@@ -10,8 +10,8 @@ O objetivo é consolidar conceitos fundamentais como **manipulação de memória
 road-to-c/
 │
 ├── EmAula/
-│   ├── RevisaoArrays/ 
-|   ├── RevisaoComandosRepeticao/
+│   ├── Revisao_de_Arrays/ 
+|   ├── Revisao_de_Comandos_de_Repeticao/
 │   └── .../ 
 │
 ├── EmCasa/
