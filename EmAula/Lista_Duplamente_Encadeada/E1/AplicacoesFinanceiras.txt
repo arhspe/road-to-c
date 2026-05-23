@@ -1,0 +1,33 @@
+Aplicações financeiras
+
+Pré-requisito: use as definições de lista aprendidas em aula.
+
+Deseja criar um sistema de aplicações financeiras, com o inuito de 
+comparar 2 tipos de aplicações com suas condições próprias.
+
+As opções do sistema serão:
+
+1 - Simular Aplicações;
+2 - Imprimir simulação;
+3 - sair;
+
+ao realizar uma nova simulação deverá ser informado para 2 aplicações
+- nome aplicação;
+- saldo inicial;
+- aplicação mensal fixa;
+- taxa de júros (a.m.);
+- tempo em meses;
+- se incide Imposto de Renda (IR);
+
+Gere a simulação da aplicação de acordo com o tempo previsto, de acordo com:
+
+MES | SALDO | APLICAÇÃO MENSAL | JUROS | TOTAL
+1      100          0              1,0      101,0
+2      101          0              1,01     102,01 
+
+Caso haja incidência de IR, deverá ser subtraído do rendimento
+Ate 6 meses    22,5%
+de 6 a 12      20.0%
+acima de 12    15%   (simulação, o real não é assim)
+
+
